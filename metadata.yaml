@@ -1,0 +1,35 @@
+_repo: Ancient-Egypt_15663
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Rawlinson, George
+    birthdate: 1812
+    deathdate: 1902
+    gutenberg_agent_id: '872'
+    url: http://www.gutenberg.org/2009/agents/872
+    wikipedia: http://en.wikipedia.org/wiki/George_Rawlinson
+  - agent_name: Gilman, Arthur
+    birthdate: 1837
+    deathdate: 1909
+    gutenberg_agent_id: '2035'
+    url: http://www.gutenberg.org/2009/agents/2035
+description: ''
+gutenberg_bookshelf:
+- Children's History
+- Egypt
+gutenberg_issued: '2005-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Egypt -- History, Ancient'
+title: Ancient Egypt
+url: http://www.gutenberg.org/ebooks/15663
